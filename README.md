@@ -4,6 +4,8 @@ Actividad3.2-FrontendII
 Estudiantes de la Universidad Valle del Momboy Facultad de Ingeniería Carrera Ingeniería en Computación Asignatura Frontend II
 
 Colaboradores
+
+
 Endelkys Matos
 
 Daniel Rendon
